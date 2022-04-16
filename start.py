@@ -62,7 +62,7 @@ config.sync()
 
 settings.update(data.pop('settings'))
 
-log('Данные получены, запускаю прослушку...')
+log('ЛП бот для ДЕНИСА включен...')
 
 
 while True:
